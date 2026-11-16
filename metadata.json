@@ -1,0 +1,8 @@
+{
+  "name": "SC GAMES",
+  "description": "All-ages free-to-play gaming platform by Saipratap Developer featuring 26 original offline and online games, PWA installation, real-time WebSocket multiplayer, and SC AI Game Doctor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "totalVisits": 1421,
+  "gamePlays": {
+    "color-match": 314,
+    "memory-flip": 418,
+    "turbo-gp": 506,
+    "chess-master": 389,
+    "bubble-pop": 276,
+    "sudoku-classic": 295,
+    "word-search": 241,
+    "cricket-super-over": 350,
+    "shape-builder": 1,
+    "animal-safari": 1,
+    "number-garden": 1,
+    "sliding-15": 1,
+    "endless-highway": 1,
+    "parking-pro": 1
+  },
+  "leaderboard": [
+    {
+      "id": "lb-1",
+      "gameId": "turbo-gp",
+      "playerName": "Aarav",
+      "score": 2450,
+      "createdAt": "2026-11-14T11:50:59.271Z"
+    },
+    {
+      "id": "lb-2",
+      "gameId": "memory-flip",
+      "playerName": "Meera",
+      "score": 1820,
+      "createdAt": "2026-11-15T11:50:59.271Z"
+    },
+    {
+      "id": "lb-3",
+      "gameId": "brick-breaker",
+      "playerName": "Rohan",
+      "score": 3100,
+      "createdAt": "2026-11-15T23:50:59.271Z"
+    },
+    {
+      "id": "lb-4",
+      "gameId": "star-blaster",
+      "playerName": "Ananya",
+      "score": 4200,
+      "createdAt": "2026-11-16T05:50:59.271Z"
+    },
+    {
+      "id": "lb-5",
+      "gameId": "cricket-super-over",
+      "playerName": "Vikram",
+      "score": 34,
+      "createdAt": "2026-11-16T09:50:59.271Z"
+    }
+  ],
+  "reports": [],
+  "gameOverrides": {},
+  "adConfig": {
+    "homeBannerEnabled": true,
+    "sidebarSponsorEnabled": false,
+    "kidsZoneAdsAllowed": false,
+    "monthlyEstimatedRpmInr": 100
+  },
+  "snapshots": []
+}

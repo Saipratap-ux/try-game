@@ -1,0 +1,683 @@
+# **Complete PRD: SC Games – All Ages Gaming Platform**
+
+
+
+Project concept ready
+
+Web + PWA + Mobile + Desktop
+
+
+
+**Website name:** SC GAMES\
+**Brand:** SC – Saipratap Developer\
+**Tagline:** Play Together. Enjoy Every Age.\
+**Main objective:** Build a free-to-play gaming website where children, teenagers, adults, parents and senior citizens can enjoy simple, entertaining games both offline and online.
+
+My recommendation is to create **SC GAMES as an all-in-one gaming platform**, combining a children's learning game centre, casual games, puzzles, racing, arcade games and multiplayer entertainment.
+
+[PlayFlix - Game Directory Framer Template by Ahmad S. Afandi for Peterdraw Studio on Dribbble](https://images.openai.com/static-rsc-4/lliJ63Zz9b7qzSzb9eEF9RdPjKTXuL0oMQ3jHqUUn7SuBVLQjpcXxqUHs6xMlB2DgBnXjTpXCNpxr2tsxVEoR0NAkwZRyie1kFdEmvHeyqO7-cEXdNBisaDyKgVKfUr9xR0GWLms1yDagU1MfLARm6sPQwcHchGOaC2xQxPaX4Q?purpose=inline)
+
+[Infant Learning Games - Reviews, Revenue and Downloads in Saudi Arabia | Apple App Store](https://images.openai.com/static-rsc-4/sPd6TrM4oEXsWPKueOq8ZU96I7IQSYjgyKHCiqzqYXYHNGF142d4kMKoEP6bQP4OyfSt-NFsiuf2LppBUQ9eOylI1yuS6Kz1SQd9sC7tqJtzIjem8BupHAIy_UXOS57unyLZvWfsyHw_MwTUfN7-_KLAzo42MpSn6in11AFgMdk?purpose=inline)
+
+[Playonline.cc Review: Reputation and Safety Check](https://images.openai.com/static-rsc-4/yq-pI1Vo9Lo2bqmg46InGmLT8PggonJdxyXLxQP2bdG1iTtcsB8BCW8S-4IIE4bGrl-V87OwxRnSxmZ6aVhibF1zzhU-IWiXx-H4-ZeQyxDgOCeR5NVe3KBEhyCFPP1OOVZl4lqHQse1npUuGsx68RrM0F-VSGS0hyPaAhWFLeY?purpose=inline)
+
+12
+
+## **1. Main idea and age groups**
+
+The platform should be easy enough for beginners but entertaining enough for adults.
+
+| Age group    | Gaming experience                                              |
+| ------------ | -------------------------------------------------------------- |
+| 1–3 years    | Parent-assisted colours, sounds, shapes and animal recognition |
+| 4–6 years    | Matching, drawing, alphabet and counting                       |
+| 7–12 years   | Adventure, puzzles, memory and racing                          |
+| 13–17 years  | Arcade, strategy, sports and multiplayer                       |
+| 18–30 years  | Racing, challenges, brain games and action                     |
+| 31–45 years  | Family games, quizzes, puzzles and casual games                |
+| 46–60+ years | Memory games, chess, cards and relaxing puzzles                |
+
+**Important:** Children aged 1–3 should only use age-appropriate games with adult supervision. The website should not encourage independent screen use for infants.
+
+## **2. SC GAMES logo and branding**
+
+# **SC**
+
+# **GAMES**
+
+SAIPRATAP DEVELOPER
+
+PLAY TOGETHER • ENJOY EVERY AGE
+
+Suggested logo direction: SC monogram, controller-inspired design, blue and purple gradient, modern 3D appearance.
+
+Brand colours:
+
+- Primary: Dark Navy Blue
+- Secondary: Purple
+- Accent: Electric Blue
+- Children's section: Bright, friendly colours
+- Background: Dark mode and light mode
+
+## **3. Main website pages**
+
+[Esports UI designs, themes, templates and downloadable graphic elements on Dribbble](https://images.openai.com/static-rsc-4/96uQ2gts1a1EvGUvBPj_S-xSgwbTyb1LZ3OeC8KtRoxxG6m9nc96rzAwSumUi00dqP6sNqDkJMwFezhx-EuwSr1AUiTQao6xim7yKt66qlrdEggaNC6ZW5OTkl9gW1FiT67sp0HTjpeSs3lV5jfjHvOt_SsN88yxd68qjEtNHfQ?purpose=inline)
+
+[Morphite - Game Portal Website by voxy St for Orenji Studio on Dribbble](https://images.openai.com/static-rsc-4/uIWZW4ciTA9VhfUnmKysUcOMIQQRIFhNXmoUa7p-ODh9aSlGt6ZO7ywIeB_FIRSkAQAdW4FwiebR5vOp0Qph0Rlrmi29UWC6ueiT_3Bf6uksTbtjvrHIPWcpb4J93jwa8OJwcGjgb7hOu_glcbi1UMqUdNN_i7KfZHoSFuV8exQ?purpose=inline)
+
+[Games Market Dashboard - Telegram Mini Apps by Alex Morethan for Morethan on Dribbble](https://images.openai.com/static-rsc-4/_NbtIWZhfbXz9inekh1ZWQXAcK2fr7RMuDLz7VuZ5ZhbarFxQ54NYJoORijzqYr6SOT7rRU_YRYt6HdT9RYgboq_5uP404p8C9W3DmIUa_R0YEl6Z2Zyuj-0Y3ahE4C-peQJTd3XElHnUL7Vna2e8f2xuWwTG4Bfidpdcsqt11w?purpose=inline)
+
+11
+
+1. Home – featured games, popular games and recently played.
+2. All Games – complete searchable game library.
+3. Kids Zone – educational and parent-assisted games.
+4. Brain Games – memory, chess, Sudoku and puzzles.
+5. Racing Zone – car racing and driving games.
+6. Arcade Zone – platform, jumping and classic arcade games.
+7. Sports Zone – football, cricket and other sports games.
+8. Multiplayer – online games with friends.
+9. Offline Games – games that work without internet.
+10. My Games – favourites, saved progress and history.
+11. Profile – player settings and achievements.
+12. Admin Dashboard – game management, analytics and monetization.
+13. Help Centre – report problems and receive troubleshooting assistance.
+
+## **4. Complete game library**
+
+The initial launch should include at least 20 original, working games. Build each game as an independent module so it can be tested and updated separately.
+
+[Smart Baby Shapes Download Free Android APK - gamespot](https://images.openai.com/static-rsc-4/I8XKel0mrNxHun9AEVpO6HZ-vXtMmH1Km8cOS63xHopHysQtv6WRDRy1LjcQAa63NydVQwCAMQ-p4ypiyzCmHDW4eANV6JJfkOKgyFqf8jQqD2xTYnyNstdujZZVKzok0-jpPfn-goSfzEEu9VfH4yo4eElbkB9yjsPBlvt69lk?purpose=inline)
+
+**1. Kids Learning Games**
+
+- Colour matching
+- Shape matching
+- Animal sounds
+- Alphabet learning
+- Number counting
+
+[Cat & Friends Memory Paw Prints / Bundle / Nintendo eShop](https://images.openai.com/static-rsc-4/3nSWEp5FQVpLkWT5Qt0ESMoSMJxzRnPzKrbEdw981dhz4lRuAFu8tmFQWveVWrD_AoE2MGylGE-RsS6f7znt8oeP-LbtDiq9tAJ5eOwEbq5LuUD3W2tTwDFgacUZ3bHoPFQabHlHJaiQPCjbBsyn0Lo3ZbnYzXkHw8OJixn-rDI?purpose=inline)
+
+**2. Brain and Memory Games**
+
+- Memory cards
+- Sudoku
+- Word puzzles
+- Number puzzles
+- Picture matching
+
+[Игра Супер Шоссейные Гонки 3D 2022 - Играть Онлайн!](https://images.openai.com/static-rsc-4/doMLW4FWX2vS5P9ZF4ocns8EJ_uUJaN9t05niMJPviKwkn6waxmu06Ft6vbKE6g8dKeUQOCKvNoluTVudQzMg9rH2orcNztt4Z6fBYDJ7vYxGWfn66gI--Z0WEiUom9KehR58R0b5J27pIG1Ln9UgPgfzAKJuUlmVSo9OfX8wek?purpose=inline)
+
+**3. Racing Games**
+
+- Car racing
+- Endless road runner
+- Parking challenge
+- Bike racing
+- Traffic dodging
+
+[🕹️ Play Monster Adventure Game: Free Online Star Collecting Platform Jump Level Escape Video Game for Kids & Adults](https://images.openai.com/static-rsc-4/AMfGCSq0YU6VROPPcpn5lWdoCZCHZeztHWt4oElrj5RNHf8lR2Jc-Zwqa_gXRhygYpUet5Kiu3sLAAXI5N_4nGDR-JhHu1sWZEJCCSi3Kjg016vridiOsNXlX780qthnJO-PjbS56gU0ZYXpQ6MUq08zMjP2bt4AX6tXjYuATNU?purpose=inline)
+
+**4. Arcade Games**
+
+- Bubble shooter
+- Fruit catcher
+- Brick breaker
+- Endless jumping
+- Space shooter
+
+[Adda for Android - Download the APK from Uptodown](https://images.openai.com/static-rsc-4/PaovS4tJ15v-CvBRN2qeByGLgpkb_CDxcJHXfl5T8wnSL2EJZpqDLiteWRW2oIwlZ9TAyQuq_K9qkjwZ4ZKFfq74AMpeGLztnqns8lQh3CtFuBKzlXR7ibzfTqFo1iEahhBxSVDe6oV99XQxbaO4oKeUHRL6gensPEiUId_7CLs?purpose=inline)
+
+**5. Family Games**
+
+- Chess
+- Ludo
+- Tic-tac-toe
+- Connect Four
+- Two-player games
+
+### **5. Offline and online gaming**
+
+**Offline mode**
+
+- Play downloaded games
+- Save progress locally
+- No internet required
+- Local two-player games
+- Offline settings
+
+  Core feature
+
+**Online mode**
+
+- Multiplayer games
+- Play with friends
+- Online leaderboard
+- Cloud save
+- Game updates
+
+  Internet required
+
+**Important technical distinction:** The website can open offline after installation, but only games and assets previously downloaded or cached can work offline. Online multiplayer, live leaderboards and cloud saving need internet. Use a PWA service worker and local storage/IndexedDB for offline support.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://developer.mozilla.org\&sz=32)
+
+MDN+1
+
+
+
+### **6. Install on mobile and desktop**
+
+[Creating a Progressive Web App (PWA): Step-by-Step Guide, Best Practices, and Offline‑First Patterns](https://images.openai.com/static-rsc-4/J3Mfuj1ybOULKq3mz79ugYnUjluxMxQ25ORsOhlig8H-0lrnTlUDpZ_JM3d8lkYnnM-qve7LvtCWE43E18oVz3Ltx_KmUtQVSt6kGFQCuCi8EDZ-yyrbMhTXnPkT68WnMP9jd5RVwbpRLAjIIVuM1orz6ivjRPzK-PxSrb7lZzk?purpose=inline)
+
+[How to install any website as a desktop app in just a few seconds](https://images.openai.com/static-rsc-4/PUY9vzOX9beLmbesAnVgpL1NRSX7LT-XIrHHdA3O3pa23S3mXsXC6ObwhPLeCFGhC4tuwjNpFgyhspEIkBtjD-IHgx_Dc45La7EuEwZaIEGXV9YsWH8TIYR9DurA64_whnsdGYM1g5z4qw7g52LGB3e_CvUeRDWSK5_9yKL8bb4?purpose=inline)
+
+[How to add our site to your phone’s home screen | Cheshire West and Chester Council](https://images.openai.com/static-rsc-4/t1_zswnqN3MOyxQ_YsgFpIwYPGPzHCVJE2HGkXsgsfBe83y4A0G8ZHsPIZYbkhw1H_zdAvMojIBuTnHHzefSBDiLSCWZWLTdTgyWpf2jutcOLdEdnEKlIOqfoDcmRnVWbPvrLMm4PkVXkafRSABPbI9lmR9CJKEyR-6-XIu74gs?purpose=inline)
+
+7
+
+The website must be installable as an application.
+
+- Android: Install through supported mobile browsers.
+- iPhone: Add to Home Screen where supported.
+- Windows: Install through supported desktop browsers.
+- macOS: Install through supported browsers.
+- Desktop: App-like window and full-screen gaming.
+- Mobile: Touch controls, portrait and landscape layouts.
+
+Include:
+
+- `manifest.json`
+- `service-worker.js`
+- App icons (192 × 192 and 512 × 512)
+- Offline fallback page
+- Update notification
+- Install App button
+
+## **7. AI automatic error detection and repair**
+
+Important platform feature
+
+Create a dedicated feature called **SC AI Game Doctor**.
+
+[Game Development Debugging and Real-time Crash Reporting | Sentry](https://images.openai.com/static-rsc-4/spws2khloUxD81TwSNIa7X3H1u-MlGHuqoJc9wWZLbEPZGcSoyTWqNT4FNLS4gvTR6KV8LDyR0Q40UchIoDHsYj6kIn3wk630cyLhsBpN1cTMqTkZVIctzyQVPtsyYFRJyniPqoaEjgvJSzNWWjp990yfn7GTLZGEddQodRet0U?purpose=inline)
+
+[sentry.io](https://sentry.io/solutions/game-developers/?utm_source=chatgpt.com)
+
+The AI should help identify website and game problems.
+
+| Error                    | AI response                       |
+| ------------------------ | --------------------------------- |
+| Game not loading         | Check assets and loading errors   |
+| Button not working       | Detect missing event handlers     |
+| JavaScript error         | Find source and line number       |
+| Offline game failing     | Check cached resources            |
+| Broken game link         | Identify invalid destination      |
+| Mobile display issue     | Detect responsive layout problems |
+| Save progress failing    | Check storage errors              |
+| Multiplayer disconnected | Diagnose network connection       |
+
+**Automatic repair workflow:**
+
+**1. Website monitoring**
+
+Check website and game health
+
+**2. Error detection**
+
+Collect logs and reproduce failures
+
+**3. AI diagnosis**
+
+Find the probable cause and suggest a fix
+
+**4. Safe repair and testing**
+
+Test fixes in an isolated environment
+
+**5. Verified recovery**
+
+Deploy only after tests pass; otherwise roll back and alert admin
+
+Required AI tools:
+
+- JavaScript error monitoring.
+- Game loading diagnostics.
+- AI-generated code suggestions.
+- Automated browser testing.
+- Broken-link checking.
+- GitHub Actions testing.
+- Backup and rollback system.
+- Admin error reports.
+
+**Realistic limitation:** AI cannot guarantee that every error will be automatically fixed. It must not modify live code blindly. Use automatic repairs for safe, tested changes and require administrator approval for risky changes.
+
+## **8. Complete website button requirements**
+
+Every button must have an actual working action.
+
+| Button           | Expected action                       |
+| ---------------- | ------------------------------------- |
+| Play Now         | Start selected game                   |
+| Pause            | Pause gameplay                        |
+| Resume           | Continue gameplay                     |
+| Restart          | Reset current game                    |
+| Fullscreen       | Enter/exit fullscreen                 |
+| Sound            | Mute/unmute                           |
+| Offline Download | Save supported game assets            |
+| Install App      | Show installation instructions/prompt |
+| Search           | Search game library                   |
+| Favourite        | Save/remove favourite                 |
+| My Progress      | Show saved progress                   |
+| Leaderboard      | Load online scores                    |
+| Multiplayer      | Open/join a game room                 |
+| Report Error     | Submit diagnostic report              |
+| AI Fix           | Run authorized repair workflow        |
+| Contact          | Open contact form                     |
+
+Include loading indicators, disabled states, confirmation messages and error messages. Never leave decorative buttons that do nothing.
+
+## **9. Admin dashboard**
+
+The owner should control the entire platform.
+
+[Game Admin Panel — built with AI on Blink](https://images.openai.com/static-rsc-4/WBfFnZeTnZ9wD3_HbcUTMOZM57K-_ZHMsyBPt9FWPFkXmxT20KYo7zyHe5G7DyNgNy1o0k3Tvg2sdSP9pwmIzbMeA12NoQ2BWTcZbeGB0Ce9kGr7Wzw3H8CxQRlcRyMx_6Tl7rMTqn1FTf3EvxsY2hdFLHpBx55zw-fncQc4fwg?purpose=inline)
+
+[blink.new](https://blink.new/p/game-admin-panel-yexz81c7?utm_source=chatgpt.com)
+
+Admin features:
+
+1. Add, edit and remove games.
+2. Upload game files and thumbnails.
+3. Manage game categories.
+4. View total visits and game plays.
+5. View popular games.
+6. Monitor errors and crashes.
+7. Manage advertising placements.
+8. Review revenue reports.
+9. Manage user accounts and reports.
+10. Manage game updates.
+11. View offline compatibility.
+12. Enable or disable individual games.
+
+Protect the admin dashboard with authentication and role-based permissions. Never store administrator passwords in public JavaScript files.
+
+## **10. Recommended technology**
+
+| Component          | Technology                            |
+| ------------------ | ------------------------------------- |
+| Website            | HTML5, CSS3, JavaScript               |
+| Game engine        | Phaser 3                              |
+| 3D games           | Three.js                              |
+| UI                 | Responsive CSS                        |
+| PWA                | Web App Manifest + Service Worker     |
+| Offline storage    | IndexedDB                             |
+| Backend            | Supabase or Firebase                  |
+| Online multiplayer | WebSocket / suitable realtime backend |
+| AI diagnosis       | AI API + error monitoring             |
+| Testing            | Playwright                            |
+| Version control    | GitHub                                |
+| Deployment         | Cloudflare Pages                      |
+
+For the first version, use HTML, CSS and JavaScript with Phaser. This makes the platform easier to deploy as a static website and keeps hosting costs low.
+
+## **11. Free website hosting**
+
+You can start SC GAMES without paying for a hosting subscription.
+
+[Why Cloudflare’s Outage Should Terrify AI-First Startups | by Abhinav | Medium](https://images.openai.com/static-rsc-4/immaY2F7iGiXlnjl5opEhJn-dJ2vLPiGF__x0JKWnog4FoeS1o83qe18--VLoh0Ey30e7AmHN7px_TTSjjYVw49q-c6lcMvIJK7ie22GKE0E9Ugyd5NJelg84iuJRGOB6Dlehx8XinjoFXh1Pd5owFMUL2It4krbatEcv_jB2kU?purpose=inline)
+
+**1. Cloudflare Pages**
+
+My recommendation
+
+- Free starting plan.
+- GitHub integration.
+- Global content delivery.
+- Custom domain support.
+- Suitable for static gaming websites.
+
+[Cloudflare Pages hosting](https://pages.cloudflare.com/?utm_source=chatgpt.com)
+
+Free-plan limits apply, including build and file limits.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://developers.cloudflare.com\&sz=32)
+
+Cloudflare Pages docs+1
+
+
+
+[Oakstone & Github | Executive Search for GTM SaaS](https://images.openai.com/static-rsc-4/HQnzkeZepdcbz6yki5F911xaI7qZFrq-EjoAnoh5focKQlZBBR_xVRxmdszYIh8CF9ZImt1zDUWQIDbeJm9vx6gJmTSUYpEpChiHmY_gLt1gXp9uq4lq-oxfEEM9g7FJhQpCYi7WHrUwBF9vcV_4-kwArSHYrPmmA6I2uBI6wFE?purpose=inline)
+
+**2. GitHub Pages**
+
+- Free for eligible public repositories.
+- Automatic deployment from GitHub.
+- Good for development and demos.
+
+[GitHub Pages](https://pages.github.com/?utm_source=chatgpt.com)
+
+Important: GitHub Pages is not intended or permitted as free hosting for a website primarily operating as a commercial online business or SaaS. Choose Cloudflare Pages for the commercial gaming platform.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://docs.github.com\&sz=32)
+
+GitHub Docs
+
+
+
+[Netlify Logo Png | Netlify Logo Vector | Netlify: The Web's Deployment Backbone | Infinite Scalability | Modern Jamstack Architecture - freepng](https://images.openai.com/static-rsc-4/oU2zs2AAmLB1d0oyzk9IEpKQAJ3GsYJ6c5wjUhOuJ576LADV7nx6kj9bgunvf7P2Vr4bY7sekvuv3DKTvuQ1lng--337pP61kBYVstr3c0EqJ-wB__cE_zLB38dgVEEPMOUByc6lXMfhMR6r_kQKjAxGKYat2uuq4d6w3lwDSYg?purpose=inline)
+
+**3. Netlify**
+
+- GitHub deployment.
+- Static website hosting.
+- Preview deployments.
+
+[Netlify hosting](https://www.netlify.com/?utm_source=chatgpt.com)
+
+### **My recommended hosting architecture**
+
+**GitHub Repository**
+
+SC Games source code
+
+**Cloudflare Pages**
+
+Website deployment and delivery
+
+**Mobile PWA**
+
+**Desktop website**
+
+**Optional backend**
+
+Accounts, online multiplayer and cloud progress
+
+**My advice:** Start with Cloudflare Pages, then add a backend only when online features require it.
+
+## **12. How to earn money from SC GAMES**
+
+You can offer free games to players and earn revenue through legitimate monetization methods.
+
+[Playwire | Ad Monetization Solutions for Publishers](https://images.openai.com/static-rsc-4/bfeuJ0aJrK_IZETLrmFjWJDZkSURce0z7wPseUckVNphftB2PImrM09-SGVEk9ll-bv-RbY-d4MQCxZoEdN20tBp1fAgpbnC-HUSs4K7UrjWuJowUMUHHkyqYujF3LbHldLdRIRBqqIGHIQ5t08xH_Z-HOaz-rzeWVpdVb6bXJk?purpose=inline)
+
+[ggCircuit](https://images.openai.com/static-rsc-4/_bmw_6qvuO2u0JiGydQHx6y90OGMLqOHfJUNNb2qwKUOalF8uXukgpPat8yTRnm52dE7kmV-oV6a63zoHijTEh2vGlxKhlv8PhdiVrdT5L4NpYza08VAHjRrdDWMSrbHonavYATjmyti2lgSRNv00sT-dpnZCuIN1_r6N5nzcIc?purpose=inline)
+
+[ByteBrew - Analyze, Operate, Grow.](https://images.openai.com/static-rsc-4/tGBNde-28HCKTw7oPpAUva2idfcblrunBPeYVAvWjm36J2-wRgv0aDFvYt2Gn8HY4j4SZsnUloieT_a06Q3VNsOe4fCWKn7Z1U_ycYnstGkfkFsnerVY5m0iNyQrx4i79a5C1HunP6z3wYDC3WTXmPpeGM_x_5Z3oXYtv231Qgk?purpose=inline)
+
+10
+
+| Income source            | How it works                                    |
+| ------------------------ | ----------------------------------------------- |
+| Website advertising      | Earn from eligible advertising impressions      |
+| Game advertising         | Revenue from approved game advertising partners |
+| Sponsorship              | Companies sponsor selected games or events      |
+| Premium themes           | Sell optional visual customization              |
+| Donations                | Voluntary support from visitors                 |
+| Original game publishing | Publish your own games on gaming portals        |
+| Merchandise              | Sell SC branded merchandise                     |
+
+### **Recommended income strategy**
+
+**Stage 1 – Start free**
+
+- Publish SC GAMES.
+- Create original games.
+- Build regular visitors.
+- Improve game quality.
+- Do not charge for basic gameplay.
+
+**Stage 2 – Apply for monetization**
+
+- Apply to Google AdSense when the website meets its requirements.
+- Explore gaming-specific advertising networks.
+- Create sponsorship opportunities.
+- Publish original games on other gaming platforms.
+
+Google requires original, useful content, policy compliance and an eligible account. Approval and income are not guaranteed.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://support.google.com\&sz=32)
+
+Google AdSense Help+1
+
+
+
+**Stage 3 – Grow your gaming brand**
+
+- Create SC original games.
+- Launch seasonal competitions.
+- Build a returning player community.
+- Explore optional premium features.
+
+### **Gaming websites where you can publish games and earn**
+
+[Embed Playsaurus Web Games - Playsaurus](https://images.openai.com/static-rsc-4/7BRfxtrUNZoJC22mBsh6eN9nfHEI9xmsphgk7nHoENqwmAXu4HMVRCyAdVVNRIZuqSBPFyKvO7-XO2OpotcFPqh1UcLQGOInV3VQRxWF51psLcBFoJeAhrA3KMHo92gMPBCETqswSUAM7JMGtZdDuuSY-YbRy_3qsEzC9z3m1eY?purpose=inline)
+
+**CrazyGames**
+
+Submit original HTML5 and other supported browser games. Approved games can earn through its advertising revenue-sharing system.
+
+[CrazyGames Developer Portal](https://developer.crazygames.com/?utm_source=chatgpt.com)&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://developer.crazygames.com\&sz=32)
+
+developer.crazygames.com+1
+
+
+
+[Itch.io Logo PNG Vector (SVG) Free Download](https://images.openai.com/static-rsc-4/4ol4AVueW_nhJXHzhJ8yDWXLe3xs6VQ7nD6ZTh3DFLVdvX_e_L69muF-V_9ec2fvfsMzIEkwjj12GnTGJyN31X1ldK3A0pMGySIU_HT0y3TqkdvgRVoBY4B2Ui2xG0IWY4rPk5xJaRa63sS5-Or8fV0QYMl4Dvc8PiFr1FycMcs?purpose=inline)
+
+**itch.io**
+
+Publish independent games, free games, and paid games. You choose pricing and revenue-sharing settings subject to platform terms.
+
+[itch.io developer information](https://itch.io/developers?utm_source=chatgpt.com)
+
+[Playing for the Planet](https://images.openai.com/static-rsc-4/bVotq2VC_UCczDvjkcr_PblXs1nfpQYiwZpFoxFNNbbeFlJFA97tu44X0yMhPBWwXEIHdd7YMdpF2qRLi213h8omd1dfkEE9HnoLAhzJ6lcd67dCg9uLvHmbiGBQV5RTPWpWVlBL1kuyCyvW2XsWpuhdouIFnjhJVtoFNqgWb0k?purpose=inline)
+
+**Poki**
+
+Explore game publishing opportunities and developer partnerships. Acceptance and monetization are subject to its review.
+
+[Poki for Developers](https://developers.poki.com/?utm_source=chatgpt.com)
+
+**Important for your business:** A free hosting plan does not mean a free business. Domains, databases, AI APIs, multiplayer servers, storage, bandwidth and payment processing can eventually cost money.
+
+### **Example income calculation**
+
+Suppose your gaming website receives 100,000 monthly visits. If 40,000 of those visits generate monetized sessions, with an illustrative revenue of ₹100 per 1,000 monetized sessions:
+
+\\[ 40,000 \div 1,000 \times ₹100 = ₹4,000 \\]
+
+Illustrative calculation only, not an actual advertising rate or earnings forecast. Actual income depends on eligible traffic, ad impressions, country, advertiser demand and policy approval.
+
+### **Special child-safety and advertising requirements**
+
+Because SC GAMES includes very young children:
+
+- No inappropriate advertisements in Kids Zone.
+- No gambling, betting or loot boxes.
+- No unrestricted chat for children.
+- No public display of children's personal information.
+- Parent-controlled settings.
+- Age-appropriate content filters.
+- No unnecessary collection of children's data.
+- Separate child-safe monetization and advertising policies.
+
+For example, CrazyGames states that its general platform is for audiences aged 13+ and its dedicated kids domain disables monetization. This is why I recommend keeping the children's experience separate from the general gaming catalogue.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://docs.crazygames.com\&sz=32)
+
+CrazyGames Documentation+1
+
+
+
+## **13. Website security and privacy**
+
+Required protections:
+
+1. HTTPS encryption.
+2. Secure admin login.
+3. Protected API keys.
+4. Rate limiting.
+5. Input validation.
+6. Secure game file uploads.
+7. Backup and recovery.
+8. Privacy policy.
+9. Terms and conditions.
+10. Parent/guardian controls.
+
+The AI must never receive administrator passwords, payment details or children's private information through error logs.
+
+## **14. Development roadmap**
+
+1. **Phase 1 – Website foundation**
+
+   Create SC branding, responsive homepage, navigation, search and categories.
+2. **Phase 2 – Original games**
+
+   Develop and test the initial 20 games, with 5 games in each main category.
+3. **Phase 3 – Offline PWA**
+
+   Add installation, caching, local saves and offline game support.
+4. **Phase 4 – Online services**
+
+   Add accounts, leaderboards, multiplayer and cloud saves.
+5. **Phase 5 – SC AI Game Doctor**
+
+   Add monitoring, error reporting, AI diagnosis, safe fixes and rollback.
+6. **Phase 6 – Admin dashboard**
+
+   Add game management, analytics, user management and monetization.
+7. **Phase 7 – Testing and launch**
+
+   Test mobile, desktop, offline, online, security and all buttons before public release.
+
+## **15. Testing requirements – zero known critical errors**
+
+The project must pass these tests before launch.
+
+| Test              | Expected result             |
+| ----------------- | --------------------------- |
+| Homepage          | Loads correctly             |
+| Game launch       | Every game starts           |
+| Game restart      | Resets correctly            |
+| Touch controls    | Work on phones              |
+| Keyboard controls | Work on desktops            |
+| Offline mode      | Cached games work           |
+| Online mode       | Multiplayer connects        |
+| Save progress     | Progress persists           |
+| PWA install       | Installation works          |
+| Search            | Correct games appear        |
+| Admin login       | Unauthorized access blocked |
+| AI diagnostics    | Errors reported correctly   |
+| Mobile layout     | No broken layout            |
+| Links             | No broken internal links    |
+
+Use automated Playwright tests and GitHub Actions. Run tests before every deployment and roll back if critical tests fail.
+
+## **16. Recommended source code structure**
+
+```
+SC-GAMES/
+│
+├── index.html
+├── games.html
+├── kids.html
+├── offline.html
+├── multiplayer.html
+├── profile.html
+├── admin.html
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── logo/
+│
+├── games/
+│   ├── memory/
+│   ├── racing/
+│   ├── puzzle/
+│   ├── arcade/
+│   └── kids/
+│
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   └── games.css
+│
+├── js/
+│   ├── app.js
+│   ├── game-manager.js
+│   ├── offline-manager.js
+│   ├── storage.js
+│   └── error-monitor.js
+│
+├── ai/
+│   └── game-doctor.js
+│
+├── tests/
+│   └── playwright/
+│
+├── manifest.json
+├── service-worker.js
+├── privacy.html
+├── terms.html
+└── README.md
+```
+
+## **17. Final recommended project specification**
+
+# **SC GAMES**
+
+**SAIPRATAP DEVELOPER**
+
+THE ALL-AGES GAMING WORLD
+
+| Requirement    | Final decision                       |
+| -------------- | ------------------------------------ |
+| Website        | SC GAMES                             |
+| Platform       | Web + PWA                            |
+| Mobile         | Installable                          |
+| Desktop        | Installable                          |
+| Age range      | 1–60+                                |
+| Initial games  | 20 original games                    |
+| Gaming         | Offline + Online                     |
+| Design         | Blue + Purple                        |
+| Programming    | HTML, CSS, JavaScript                |
+| Game engine    | Phaser + Three.js                    |
+| Hosting        | Cloudflare Pages                     |
+| Database       | Optional Supabase                    |
+| AI             | SC AI Game Doctor                    |
+| Income         | Advertising, sponsorship, publishing |
+| Admin          | Full management dashboard            |
+| Testing        | Automated + manual                   |
+| Basic gameplay | Free                                 |
+
+## **18. Useful official resources**
+
+- [Cloudflare free hosting](https://pages.cloudflare.com/?utm_source=chatgpt.com)
+- [GitHub source code](https://github.com/?utm_source=chatgpt.com)
+- [Phaser game development](https://phaser.io/?utm_source=chatgpt.com)
+- [Three.js 3D development](https://threejs.org/?utm_source=chatgpt.com)
+- [Supabase backend](https://supabase.com/?utm_source=chatgpt.com)
+- [Automated website testing](https://playwright.dev/?utm_source=chatgpt.com)
+- [PWA development guide](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps?utm_source=chatgpt.com)
+- [Google AdSense information](https://support.google.com/adsense/?utm_source=chatgpt.com)
+
+## **My final recommendation**
+
+Build SC GAMES in two stages:
+
+**Stage 1:** Launch a completely working static website with 20 original games, offline PWA installation, mobile and desktop support, and a functional admin demo.
+
+**Stage 2:** Add real multiplayer, cloud accounts, AI error repair, advertising and income features using secure backend services.
+
+Do not promise unlimited free hosting, guaranteed earnings or completely error-free software. Instead, build a system that detects errors, tests fixes and prevents broken releases.
+
+**The next useful step is to create the complete SC GAMES source code, including all 20 playable games, the SC logo, PWA files, testing and a GitHub-ready ZIP archive.**
+
+You can also set up a weekly automated health check after deployment:
+
+🎮Check SC GAMES weeklyTap to set up
